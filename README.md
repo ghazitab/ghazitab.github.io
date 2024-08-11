@@ -1,3 +1,72 @@
-# ghazitab.github.io
-test for my new experience
-##project notes
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>quran قراننا عزنا</title>
+    </head>
+    <body>
+        <main>
+           <h1> Lets memorize the holy quran </h1>
+           <img src="c:\Users\PC\Desktop\quran-memorization.jpg" alt="quran-memorization" width="500">
+           <h2>what is the steps to memorize the quran ? </h2>
+           <p>to answer to this question we have to know somthings that can help us in this street : </p>
+           <ol>
+             <li><strong>Making DUA :</strong> make dua every day and night to <STrong>ALLAH</STrong> to help you and give you the pasion that can help you </li>
+             <br>
+             <li><strong>Repetition :</strong>  repetition is key , recite the verse multiple time .  </li>
+             <br>
+             <li><strong>Consistent Schedule :</strong> start with small sections in the time that you like (fajr...) </li>
+             <br>
+             <li><strong>Listening : </strong> listen to your best QARI .</li>
+             <br>
+             <li><strong>Understanding :</strong> read the tafsir of the verse to make memorizing easier </li>
+             <br>
+           </ol>
+           <ul>
+            <li><strong>AND WE CAN USE <a target="_blank" href="https://moddakir.com/%D9%83%D9%8A%D9%81-%D8%AA%D8%AB%D8%A8%D8%AA-%D8%AD%D9%81%D8%B8%D9%83-%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86/"> A LOT OF THINGS THAT CAN HELP YOU </a> BUT THESE ARE THE MOST IMPORTANT</strong></li>
+           </ul>
+           <hr>
+           <hr>
+           <div>
+            <h3>Now lets know how you will start with us </h3>
+                
+                <form action=""> 
+                    <fieldset>
+                    <legend>How much did you memorize from the quran ?</legend>
+                    <input name="juz" type="radio" id="j" ><label for="j">1 juz</label>
+                    <input name="juz" type="radio" id="k" ><label for="k">2 juz</label>
+                    <input name="juz" type="radio" id="w" ><label for="w">5 juz</label>
+                    <input name="juz" type="radio" id="q" ><label for="q">10 juz</label>
+                    <input name="juz" type="radio" id="l" ><label for="l">15 juz</label>
+                    <input name="juz" type="radio" id="a" ><label for="a">+20 juz</label>
+                    </fieldset>
+                    <br>
+                    <fieldset>
+                        <legend> How much you want to memorize ?</legend>
+                        <input name="juzi" type="radio" id="e" ><label for="e">1 juz</label>
+                        <input name="juzi" type="radio" id="r" ><label for="r">2 juz</label>
+                        <input name="juzi" type="radio" id="t" ><label for="t">5 juz</label>
+                        <input name="juzi" type="radio" id="y" ><label for="y">10 juz</label>
+                        <input name="juzi" type="radio" id="u" ><label for="u">15 juz</label>
+                        <input name="juzi" type="radio" id="i" ><label for="i">+20 juz</label>
+                    </fieldset>
+                    <br>
+                    <br>
+                    <div>
+                        <input placeholder="username" type="text" required>
+                        <br>
+                        <input placeholder="email" type="email" required>
+                        <br>
+                        <input placeholder="password" type="password" required>
+                        <br><br>
+                        <button>send</button>
+                    </div>
+                </form>
+           </div>
+        </main>
+    </body>
+    <footer>
+        <br><hr><br>
+        Now you can contact us in the time that you choise from our store <a href="taboule.com"> ghazitaboule@gmail.com</a>
+    </footer>
+</html>
