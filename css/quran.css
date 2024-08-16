@@ -44,4 +44,12 @@ div{
 }
 #text{
     padding: 10px;
+    font-size: 30px;
+}
+fieldset{
+    font-size: 25px;
+}
+footer{
+    background-color:rgba(177, 152, 143, 0.389);
+    font-size: xx-large;
 }
